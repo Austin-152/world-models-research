@@ -378,3 +378,5 @@ Flow-matching 策略没有 action log-probability，所以不能用标准 AWR �
 - 基座模型：**Ctrl-World**（世界模型）、**π₀.₅**（VLA 策略）
 - 数据集：**DROID**
 - 本仓库 **VITRA**（[microsoft/VITRA](https://github.com/microsoft/VITRA)）— 人类手部 VLA 预训练，可作为 VLAW 框架的策略冷启动替代
+
+Copyright © 2026 [Austin-152](https://github.com/Austin-152/). All rights reserved.

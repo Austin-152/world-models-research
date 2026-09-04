@@ -420,3 +420,5 @@ A：否。`is_non_overlapping=True` 时走 Hand-Eye；否则走 `estimate_relati
 | 卷帘快门          | `motion/rolling_frames.py`    | `RollingFrames.project`                       |
 | Bundle Adjustment | `optimization/calibration.py` | `bundle_adjust`, `adjust_outliers`            |
 | 参数稀疏结构      | `optimization/parameters.py`  | `IndexMapper`, `build_sparse`                 |
+
+Copyright © 2026 [Austin-152](https://github.com/Austin-152/). All rights reserved.

@@ -783,3 +783,4 @@ Calibration:
 ---
 
 *报告生成日期：2026-06-17 | 基于 multical v0.4.0 源码*
+Copyright © 2026 [Austin-152](https://github.com/Austin-152/). All rights reserved.
